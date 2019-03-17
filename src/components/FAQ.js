@@ -16,7 +16,7 @@ class FAQ extends Component {
                     <li class="item" id='question2'>
                         <a href="#question2" class="question">Q: Which forms of payment do you accept?</a>
                         <div class="smenu">
-                            <a href="#">A: We accept cryptocurrency (Bitcoin and Ether), bank transfer, and Skrill transfer.</a>
+                            <a href="#">A: We accept cryptocurrency (Bitcoin and Ethereum). Contact us for other options.</a>
                         </div>
                     </li>
 
