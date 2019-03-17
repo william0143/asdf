@@ -45,7 +45,7 @@ export default class ContactDetails extends Component {
     } = this.props.env;
 
     this.sendEmail(
-      template,
+      "template_rpabrNps",
       this.sender,
       receiverEmail,
       this.state.inputemail,
@@ -60,7 +60,7 @@ export default class ContactDetails extends Component {
 
   sendEmail(templateId, senderEmail, receiverEmail, inputemail, details) {
     window.emailjs
-      .send('mailgun', templateId, {
+      .send('mailgun', "template_rpabrNps", {
         senderEmail,
         receiverEmail,
         inputemail,
