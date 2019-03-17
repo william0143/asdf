@@ -60,7 +60,7 @@ export default class ContactDetails extends Component {
 
   sendEmail(templateId, senderEmail, receiverEmail, inputemail, details) {
     window.emailjs
-      .send('mailgun', "template_rpabrNps", {
+      .send('smtp_server', "template_rpabrNps", {
         senderEmail,
         receiverEmail,
         inputemail,
@@ -91,8 +91,7 @@ export default class ContactDetails extends Component {
       popup = [];
     } 
     
-    console.log(this.state);
-    console.log(this.state.details.shoppingBag);
+    console.log(this.props.env);    
 
     return (
       <ProductConsumer>
@@ -147,7 +146,8 @@ export default class ContactDetails extends Component {
                                                                 
                                 
                                 <input type="submit"
-                                value="Place Order"                         
+                                value="Place Order"  
+                                disabled={formSubmitted}                        
                                 className="btn btn-outline-danger text-uppercase mx-3" 
                                 />
                                           
@@ -201,7 +201,8 @@ export default class ContactDetails extends Component {
                                                                 
                                 
                                 <input type="submit"
-                                value="Place Order"                         
+                                value="Place Order"   
+                                disabled={formSubmitted}                     
                                 className="btn btn-outline-danger text-uppercase mx-3" 
                                 />
                                           
