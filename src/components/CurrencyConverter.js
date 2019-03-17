@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 
 class CurrencyConverter extends Component {
     state = {
-        currencies: ['USD','AUD','CAD','GBP','Bitcoin','Ether'],
+        currencies: ['USD','AUD','CAD','GBP','BTC','ETH'],
         base: 'EUR', 
         amount: '0.00',
         convertTo: 'USD',
@@ -37,20 +37,20 @@ class CurrencyConverter extends Component {
         else {
             var myObject = JSON.parse(`{
                 "rates": {
-                  "AUD": 1.5909,                  
-                  "CAD": 1.4962,
-                  "USD": 1.1386,                  
-                  "GBP": 0.85503,                  
-                  "RUB": 74.8589,
-                  "NZD": 1.6581,
-                  "Bitcoin": 0.00030,
-                  "Ether": 0.0084
+                  "AUD": 1.60,                  
+                  "CAD": 1.51,
+                  "USD": 1.13,                  
+                  "GBP": 0.85,                  
+                  "RUB": 73.53,
+                  "NZD": 1.66,
+                  "BTC": 0.00029,
+                  "ETH": 0.0082
                 },
                 "base": "EUR",
-                "date": "2019-03-16"
+                "date": "2019-03-17"
               }`)           
                 const date = myObject.date;
-                const result = (myObject.rates[this.state.convertTo] * amount).toFixed(6);
+                const result = (myObject.rates[this.state.convertTo] * amount).toFixed(5);
                 this.setState({
                     result, 
                     date
@@ -75,11 +75,10 @@ class CurrencyConverter extends Component {
 
         const { currencies, base, amount, convertTo, result, date} = this.state
 
-        return (
-            // <div className="container my-1">
-            //     <div className="row">
+        return (                
                     <div className="col-lg-8 col-sm-8 mx-auto">
-                        <div className="card card-body">
+                    <div className="divider"></div>
+                        <div className="container">
                             <h5>
                                 {amount} {base} is equivalent to
                             </h5>
@@ -94,7 +93,7 @@ class CurrencyConverter extends Component {
                                         type="number"
                                         value={amount}
                                         onChange={this.handleInput}
-                                        style={{ width: '150px'}}
+                                        style={{ width: '110px'}}
                                         className="form-control form-control-lg mx-3"                            
                                         />
                                         <h5>
@@ -105,7 +104,7 @@ class CurrencyConverter extends Component {
                                     <form className="form-inline mb-3">
                                         <input 
                                         disabled={true}
-                                        style={{ width: '150px'}}
+                                        style={{ width: '110px'}}
                                         value={
                                             result === null ? 'Calculating' : result}
                                         className="form-control form-control-lg mx-3"                            
@@ -123,18 +122,10 @@ class CurrencyConverter extends Component {
                                              ))}
                                         </select>
                                     </form>
-                                </div>
-
-                                {/* <div className="col-lg-2 col-md-2 col-sm-2 align-self-center">
-                                    <h1 onClick={this.handleSwap} className="swap">&#8595;&#8593;</h1>
-                                </div> */}
-                                
+                                </div>                                
                             </div>
                         </div>
-
-                    </div>
-            //     </div>
-            // </div>            
+                    </div>           
         );
     }
 }
