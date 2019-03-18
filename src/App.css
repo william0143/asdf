@@ -114,7 +114,7 @@ body{
 
 .smenu a{
   display: block;
-  padding: 16px 26px;
+  padding: 0px 15px; 
   color: white;
   font-size: 14px;
   margin: 4px 0;
