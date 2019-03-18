@@ -16,7 +16,7 @@ class FAQ extends Component {
                     <li class="item" id='question2'>
                         <a href="#question2" class="question">Q: Which forms of payment do you accept?</a>
                         <div class="smenu">
-                            <a href="#">A: We accept cryptocurrency (Bitcoin and Ethereum). Contact us for other options.</a>
+                            <a href="#">A: We accept cryptocurrency (Bitcoin and Ether). Contact us for other options.</a>
                         </div>
                     </li>
 
@@ -43,7 +43,8 @@ class FAQ extends Component {
                             <a href="#">A:  
                             It's best recommended that you do some research on the TransDIY Reddit as lots of estrogen, anti-androgen, 
                             and even progestrone cycles are outlined there. Anyway, usually people start with Estrofem 2mg/12hours and 
-                            Bicalutamide or Spironolactone 50mg/day.
+                            Bicalutamide or Spironolactone 50mg/day. Disclaimer: Please note that these are for entertainment/educational purposes 
+                            only. Always consult a physician first.
                             </a>
                         </div>
                     </li>
