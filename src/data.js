@@ -347,6 +347,42 @@ export const storeProducts = [
     inShoppingBag: false,
     count: 0,
     total: 0
+  },
+  {
+    id: 30,
+    title: "Roaccutane 20mg",
+    img: "img/product-30.jpg",
+    price: 1,
+    company: "Roche",
+    info:
+      "Isotretinoin is a medication primarily used to treat severe acne. 30 tablets 20mg each.",
+    inShoppingBag: false,
+    count: 0,
+    total: 0
+  },
+  // {
+  //   id: 31,
+  //   title: "",
+  //   img: "img/product-31.jpg",
+  //   price: 1,
+  //   company: "",
+  //   info:
+  //     "",
+  //   inShoppingBag: false,
+  //   count: 0,
+  //   total: 0
+  // },
+  {
+    id: 32,
+    title: "Lucrin Depot",
+    img: "img/product-32.jpg",
+    price: 1,
+    company: "abbvie",
+    info:
+      "Lupron Injection (leuprolide acetate) is a synthetic gonadotropin-releasing hormone used in men to treat symptoms of prostate cancer, and in women to treat symptoms of endometriosis (overgrowth of uterine lining outside of the uterus) or uterine fibroids. Can act as an anti-androgen.",
+    inShoppingBag: false,
+    count: 0,
+    total: 0
   }
 ];
 
