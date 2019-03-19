@@ -17,7 +17,7 @@ export default class ContactDetails extends Component {
   handleChange = this.handleChange.bind(this);
   handleSubmit = this.handleSubmit.bind(this);
 
-  static sender = 'claudia39@ethereal.email';
+  static sender = 'fsdahfbasjdcn@gfdsgds.com';
 
   handleCancel() {
     this.setState({
@@ -111,7 +111,7 @@ export default class ContactDetails extends Component {
                             
                             {popup}
                     
-                            <h1>Enter your contact info</h1>
+                            <h10>Contact us: Contactshapeshifter@protonmail.com<br/>Leave your contact info below!</h10>
                     
                             <div className="row">
                             <p>
@@ -166,7 +166,7 @@ export default class ContactDetails extends Component {
                             
                             {popup}
                     
-                            <h1>Enter your contact info</h1>
+                            <h10>Contact us: Contactshapeshifter@protonmail.com<br/>Leave your contact info below!</h10>
                     
                             <div className="row">
                             <p>
