@@ -291,7 +291,7 @@ export const storeProducts = [
   {
     id: 25,
     title: "Yasmin 2 boxes",
-    img: "img/product-25.jpg",
+    img: "img/product-31.jpg",
     price: 1,
     company: "BESINS",
     info:
@@ -360,18 +360,18 @@ export const storeProducts = [
     count: 0,
     total: 0
   },
-  {
-    id: 31,
-    title: "Yasmin 21",
-    img: "img/product-31.jpg",
-    price: 1,
-    company: "BAYER",
-    info:
-      "Yasmin (ethinyl estradiol/drospirenone) is a combination of two female hormones prescribed as a 28-day oral contraceptive pill used to prevent pregnancy. Yasmin works by inhibiting the release of an egg during the menstrual cycle.",
-    inShoppingBag: false,
-    count: 0,
-    total: 0
-  },
+  // {
+  //   id: 31,
+  //   title: "Yasmin 21",
+  //   img: "img/product-31.jpg",
+  //   price: 1,
+  //   company: "BAYER",
+  //   info:
+  //     "Yasmin (ethinyl estradiol/drospirenone) is a combination of two female hormones prescribed as a 28-day oral contraceptive pill used to prevent pregnancy. Yasmin works by inhibiting the release of an egg during the menstrual cycle.",
+  //   inShoppingBag: false,
+  //   count: 0,
+  //   total: 0
+  // },
   {
     id: 32,
     title: "Lucrin Depot",
