@@ -383,6 +383,30 @@ export const storeProducts = [
     inShoppingBag: false,
     count: 0,
     total: 0
+  },
+  // {
+  //   id: 33,
+  //   title: "Aldactone",
+  //   img: "img/product-33.jpg",
+  //   price: 1,
+  //   company: "Aris",
+  //   info:
+  //     "Aldactone is a Contains 16 tablets each 100 mg.",
+  //   inShoppingBag: false,
+  //   count: 0,
+  //   total: 0
+  // },
+  {
+    id: 34,
+    title: "Dutasteride",
+    img: "img/product-34.jpg",
+    price: 1,
+    company: "GlaxoSmithKline",
+    info:
+      "Dutasteride prevents the conversion of testosterone to dihydrotestosterone (DHT) in the body. DHT is involved in the development of benign prostatic hyperplasia (BPH). Dutasteride is used to treat benign prostatic hyperplasia (BPH) in men with an enlarged prostate. Great potential anti-androgen or for growing back scalp hair. Contains 30 tablets each 0.5 mg.",
+    inShoppingBag: false,
+    count: 0,
+    total: 0
   }
 ];
 
