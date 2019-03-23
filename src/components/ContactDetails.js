@@ -110,7 +110,7 @@ export default class ContactDetails extends Component {
                           text-left text-title" onSubmit={this.handleSubmit}>
                             
                             {popup}
-                    
+                            <div className="divider"/>
                             <h10>Contact us: Contactshapeshifter@protonmail.com<br/>Leave your contact info below!</h10>
                     
                             <div className="row">
@@ -165,7 +165,7 @@ export default class ContactDetails extends Component {
                           text-left text-title" onSubmit={this.handleSubmit}>
                             
                             {popup}
-                    
+                            <div className="divider"/>
                             <h10>Contact us: Contactshapeshifter@protonmail.com<br/>Leave your contact info below!</h10>
                     
                             <div className="row">
