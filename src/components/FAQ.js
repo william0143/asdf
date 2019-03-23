@@ -61,7 +61,7 @@ class FAQ extends Component {
                         <a href="#question7" class="question">Q: Do you do price matching?</a>
                         <div class="smenu">
                             <a href="#">A: We will honor price matching - if we can. Once we get in touch, send us the link to the website you'd 
-                            like us to price match. Thank you!</a>
+                            like us to price match. Please note that we only do price matching for exact products and if those competitors actually have those products in stock. Thank you!</a>
                         </div>
                     </li>
 
