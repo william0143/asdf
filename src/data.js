@@ -407,6 +407,42 @@ export const storeProducts = [
     inShoppingBag: false,
     count: 0,
     total: 0
+  },
+  // {
+  //   id: 35,
+  //   title: "",
+  //   img: "img/product-35.jpg",
+  //   price: 1,
+  //   company: "AbdiIbrahim",
+  //   info:
+  //     "",
+  //   inShoppingBag: false,
+  //   count: 0,
+  //   total: 0
+  // },
+  {
+    id: 36,
+    title: "Clenbuterol",
+    img: "img/product-36.jpg",
+    price: 1,
+    company: "VogelLabor",
+    info:
+      "Swiss brand Clenbuterol for cutting fat.",
+    inShoppingBag: false,
+    count: 0,
+    total: 0
+  },
+  {
+    id: 37,
+    title: "Tretinoin",
+    img: "img/product-37.jpg",
+    price: 1,
+    company: "Assos",
+    info:
+      "Tretinoin cream is used to treat fine wrinkles, dark spots, or rough skin on the face caused by the damaging rays of the sun. It works by lightening the skin, replacing older skin with newer skin, and slowing down the way the body removes skin cells that may have been harmed by the sun.",
+    inShoppingBag: false,
+    count: 0,
+    total: 0
   }
 ];
 
