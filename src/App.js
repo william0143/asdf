@@ -14,6 +14,7 @@ import Modal from './components/Modal';
 import CurrencyConverter from './components/CurrencyConverter';
 import FAQ from './components/FAQ';
 import OrderComplete from './components/OrderComplete';
+import Footer from './components/Footer';
 
 class App extends Component {
   render() {
@@ -33,6 +34,7 @@ class App extends Component {
       <div className="App">        
         <ContactDetails env={this.props.env} />
       </div>
+      <Footer/>
       </React.Fragment>
       
     );
