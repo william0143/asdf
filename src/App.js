@@ -21,6 +21,7 @@ class App extends Component {
     return (
       <React.Fragment>
          <Navbar />
+         <Footer/>
          <Switch>
            <Route exact  path="/" component={ProductList} />
            <Route path="/details" component={Details} />
@@ -32,11 +33,9 @@ class App extends Component {
          <Modal />
          <div className="divider"/>
       <div className="App">        
-        <ContactDetails env={this.props.env} />
+        <ContactDetails env={this.props.env} />        
       </div>
-      <Footer/>
-      </React.Fragment>
-      
+      </React.Fragment>      
     );
   }
 }
