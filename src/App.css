@@ -86,6 +86,15 @@ body{
   color: white;
   text-decoration: none !important;
 }
+
+.donation{
+  display: block;
+  padding: 16px 20px;
+  background: #FF69B4;
+  color: white;
+  text-decoration: none !important;
+  text-align: center;
+}
   
 /* .question:before{
   content: "";
