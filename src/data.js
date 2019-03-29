@@ -61,6 +61,18 @@ export const storeProducts = [
     total: 0
   },
   {
+    id: 38,
+    title: "Truvada HIV Antiviral",
+    img: "img/product-38.jpg",
+    price: 1,
+    company: "GILEAD",
+    info:
+      "Used to treat HIV infection and reduce the risk of HIV infection. Doesn't cure HIV or AIDS, but combinations of drugs that treat HIV infection may slow the disease progress and prolong life.",
+    inShoppingBag: false,
+    count: 0,
+    total: 0
+  },
+  {
     id: 6,
     title: "Cyclo-Progynova 2mg 2 boxes Estrogen + Anti-androgen combo",
     img: "img/product-6.jpg",
@@ -68,6 +80,18 @@ export const storeProducts = [
     company: "BAYER",
     info:
       "White Tablets: 2mg estradiol valerate. Pale Brown Tablets: 500 micrograms norgestrel 2mg estradiol valerate. Pack size - 21 tablets",
+    inShoppingBag: false,
+    count: 0,
+    total: 0
+  },
+  {
+    id: 39,
+    title: "Ustekinumab",
+    img: "img/product-39.jpg",
+    price: 1,
+    company: "Stelara",
+    info:
+      "Used to treat Crohn's disease, plaque psoriasis, and psoriatic arthritis.",
     inShoppingBag: false,
     count: 0,
     total: 0
