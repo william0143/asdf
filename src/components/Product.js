@@ -93,7 +93,7 @@ const ProductWrapper = styled.div`
 .img-container{
     position: relative;
     overflow: hidden; 
-    border:0.25rem solid var(--hotPink); 
+    //border:0.25rem solid var(--hotPink); 
 }
 .card-img-top{
     transition: all 1s linear;
