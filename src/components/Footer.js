@@ -16,7 +16,7 @@ class Footer extends Component {
             <div>
                 <div class="menu">
                 <li class="item">
-                        <a class="donation">Help us keep serving our community and friends by donating to our BTC wallet at:    14gQGCEniiRTJDbWj959wGPuHkdsa8KwZM<br/> Thank You!</a>
+                        <a class="donation">Help us keep serving our community and friends by donating to our BTC wallet at:    1JeNnzkHowzsD9guTvSfztQqifpTiniud8<br/> Thank You!</a>
                     </li>
                 </div>
             </div>
