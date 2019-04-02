@@ -467,6 +467,54 @@ export const storeProducts = [
     inShoppingBag: false,
     count: 0,
     total: 0
+  },
+  {
+    id: 40,
+    title: "Choriomon",
+    img: "img/product-40.jpg",
+    price: 1,
+    company: "IBSA",
+    info:
+      "",
+    inShoppingBag: false,
+    count: 0,
+    total: 0
+  },
+  {
+    id: 41,
+    title: "Parlodel",
+    img: "img/product-41.jpg",
+    price: 1,
+    company: "MEDA",
+    info:
+      "",
+    inShoppingBag: false,
+    count: 0,
+    total: 0
+  },
+  {
+    id: 42,
+    title: "Jodid 200 Tablets",
+    img: "img/product-42.jpg",
+    price: 1,
+    company: "MerckSerono",
+    info:
+      "",
+    inShoppingBag: false,
+    count: 0,
+    total: 0
+  },
+  {
+    id: 43,
+    title: "Test Cypo",
+    img: "img/product-43.jpg",
+    price: 1,
+    company: "Hellas Pharma",
+    info:
+      "",
+    inShoppingBag: false,
+    count: 0,
+    total: 0
   }
 ];
 
