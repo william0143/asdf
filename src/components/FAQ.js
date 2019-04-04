@@ -43,7 +43,7 @@ class FAQ extends Component {
                             <a href="#">A:  
                             It's best recommended that you do some research on the TransDIY Reddit as lots of estrogen, anti-androgen, 
                             and even progestrone cycles are outlined there. Anyway, usually people start with Estrofem 2mg/12hours and 
-                            Bicalutamide or Spironolactone 50mg/day. Disclaimer: Please note that these are for entertainment/educational purposes 
+                            Spironolactone 50mg/day. Disclaimer: Please note that these are for entertainment/educational purposes 
                             only. Always consult a physician first.
                             </a>
                         </div>
