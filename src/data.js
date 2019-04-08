@@ -520,12 +520,12 @@ export const storeProducts = [
 
 export const detailProduct = {
   id: 1,
-  title: "classic handbag",
-  img: "img/product-1.png",
-  price: 4936,
-  company: "Chanel",
+  title: "Aldactone 100mg 96 Tablets Spironolactone",
+  img: "img/product-1.jpg",
+  price: 1,
+  company: "ARIS",
   info:
-    "Grained Calfskin & Gold-Tone Metal",
+    "Spironolactone is used to treat high blood pressure and heart failure. This medication is also used to treat low potassium levels and conditions in which the body is making too much of a natural chemical (aldosterone). Spironolactone is known as a 'water pill'.",
   inShoppingBag: false,
   count: 0,
   total: 0
