@@ -302,12 +302,12 @@ export const storeProducts = [
   },
   {
     id: 24,
-    title: "Testosterone Injections",
-    img: "img/product-24.jpg",
+    title: "Depo-Provera Contraceptive Injection",
+    img: "img/product-244.jpg",
     price: 1,
-    company: "BESINS",
+    company: "",
     info:
-      "Testosterone Injections",
+      "Birth control shot",
     inShoppingBag: false,
     count: 0,
     total: 0
@@ -512,6 +512,18 @@ export const storeProducts = [
     company: "Hellas Pharma",
     info:
       "",
+    inShoppingBag: false,
+    count: 0,
+    total: 0
+  },
+  {
+    id: 44,
+    title: "Motilium Domperidon 10mg",
+    img: "img/product-44.jpg",
+    price: 1,
+    company: "Janssen",
+    info:
+      "Can be used to induce lactation.",
     inShoppingBag: false,
     count: 0,
     total: 0
