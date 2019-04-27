@@ -527,6 +527,42 @@ export const storeProducts = [
     inShoppingBag: false,
     count: 0,
     total: 0
+  },
+  {
+    id: 45,
+    title: "Duphaston Didrogesterona Tablets",
+    img: "img/product-45.jpg",
+    price: 1,
+    company: "Abbott",
+    info:
+      "Synthetic progestin used in menopausal hormone therapy.",
+    inShoppingBag: false,
+    count: 0,
+    total: 0
+  },
+  {
+    id: 46,
+    title: "Zoladex 3.6mg Goserelin",
+    img: "img/product-46.jpg",
+    price: 1,
+    company: "AstraZeneca",
+    info:
+      "Used in the treatment of advanced breast and prostate cancers, and Endometriosis.",
+    inShoppingBag: false,
+    count: 0,
+    total: 0
+  },
+  {
+    id: 47,
+    title: "Zoladex Goserelin Acetate Implant",
+    img: "img/product-47.jpg",
+    price: 1,
+    company: "AstraZeneca",
+    info:
+      "For use in men with prostate cancer only.",
+    inShoppingBag: false,
+    count: 0,
+    total: 0
   }
 ];
 
