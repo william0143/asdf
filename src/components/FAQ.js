@@ -33,7 +33,7 @@ class FAQ extends Component {
                     <li class="item" id='question4'>
                         <a href="#question4" class="question">Q: Where do you ship?</a>
                         <div class="smenu">
-                            <a href="#">A: We ship internationally and discreetly -- even to Canada.</a>
+                            <a href="#">A: We ship internationally and discreetly.</a>
                         </div>
                     </li>
 
