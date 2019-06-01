@@ -2,12 +2,12 @@
 export const storeProducts = [
   {
     id: 1,
-    title: "Aldactone 100mg 96 Tablets Spironolactone",
-    img: "img/product-1.jpg",
+    title: "Progynon Depot Estradiol Valerate Injectibles",
+    img: "img/product-55.jpg",
     price: 1,
-    company: "ARIS",
+    company: "Cadila Healthcare Limited",
     info:
-      "Spironolactone is used to treat high blood pressure and heart failure. This medication is also used to treat low potassium levels and conditions in which the body is making too much of a natural chemical (aldosterone). Spironolactone is known as a 'water pill'.",
+      "Each pack contains 10 ampoules of 1 ml injectible estradiol valerate at concentrations of 10mg/ml.",
     inShoppingBag: false,
     count: 0,
     total: 0
@@ -560,6 +560,102 @@ export const storeProducts = [
     company: "AstraZeneca",
     info:
       "For use in men with prostate cancer only.",
+    inShoppingBag: false,
+    count: 0,
+    total: 0
+  },
+  {
+    id: 48,
+    title: "Primolut-N 5 mg Tablets",
+    img: "img/product-48.jpg",
+    price: 1,
+    company: "BAYER",
+    info:
+      "",
+    inShoppingBag: false,
+    count: 0,
+    total: 0
+  },
+  {
+    id: 49,
+    title: "Visanne 2 mg Tablets",
+    img: "img/product-49.jpg",
+    price: 1,
+    company: "BAYER",
+    info:
+      "",
+    inShoppingBag: false,
+    count: 0,
+    total: 0
+  },
+  {
+    id: 50,
+    title: "Miranova 100 mcg/20 mcg",
+    img: "img/product-50.jpg",
+    price: 1,
+    company: "BAYER",
+    info:
+      "",
+    inShoppingBag: false,
+    count: 0,
+    total: 0
+  },
+  {
+    id: 51,
+    title: "Qlairista",
+    img: "img/product-51.jpg",
+    price: 1,
+    company: "BAYER",
+    info:
+      "",
+    inShoppingBag: false,
+    count: 0,
+    total: 0
+  },
+  {
+    id: 52,
+    title: "Livial 2.5 mg Tablets",
+    img: "img/product-52.jpg",
+    price: 1,
+    company: "MSD",
+    info:
+      "",
+    inShoppingBag: false,
+    count: 0,
+    total: 0
+  },
+  {
+    id: 53,
+    title: "Letrozol 2.5 mg Tablets",
+    img: "img/product-53.jpg",
+    price: 1,
+    company: "KOCAK FARMA",
+    info:
+      "",
+    inShoppingBag: false,
+    count: 0,
+    total: 0
+  },
+  {
+    id: 54,
+    title: "Tamoxifen 10 mg Tablets",
+    img: "img/product-54.jpg",
+    price: 1,
+    company: "Sopharma",
+    info:
+      "",
+    inShoppingBag: false,
+    count: 0,
+    total: 0
+  },
+  {
+    id: 55,
+    title: "Aldactone 100mg 96 Tablets Spironolactone",
+    img: "img/product-1.jpg",
+    price: 1,
+    company: "ARIS",
+    info:
+      "Spironolactone is used to treat high blood pressure and heart failure. This medication is also used to treat low potassium levels and conditions in which the body is making too much of a natural chemical (aldosterone). Spironolactone is known as a 'water pill'.",
     inShoppingBag: false,
     count: 0,
     total: 0
