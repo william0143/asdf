@@ -24,13 +24,13 @@ class Navbar extends Component {
                         </Link>
                     </li>
                 </ul>                
-                <ul className="navbar-nav align-items-center">
+                {/* <ul className="navbar-nav align-items-center">
                     <li className="nav-item ml-5">
                         <Link to="/currencyconverter" className="nav-link">
                             € -> $
                         </Link>
                     </li>
-                </ul> 
+                </ul>  */}
             </NavWrapper>
         );
     }
