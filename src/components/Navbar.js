@@ -37,13 +37,12 @@ class Navbar extends Component {
 }
 
 const NavWrapper = styled.nav`
-    background: var(--mainPink);
+    background: var(--hotPink);
     .nav-link{
-        
+        font-weight: bold;
         font-size: 1.3rem;
         text-transform: capitalize;
-    }
-    border-bottom:0.25rem solid var(--hotPink);
+    }    
 `
 //color:var(--mainWhite) !important;
 export default Navbar;
