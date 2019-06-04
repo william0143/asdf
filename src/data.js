@@ -276,30 +276,30 @@ export const storeProducts = [
     count: 0,
     total: 0
   },
-  {
-    id: 22,
-    title: "Testosterone Capsules",
-    img: "img/product-22.jpg",
-    price: 1,
-    company: "DEVA",
-    info:
-      "30 capsules 40 mg ea.",
-    inShoppingBag: false,
-    count: 0,
-    total: 0
-  },
-  {
-    id: 23,
-    title: "Testosterone Gel",
-    img: "img/product-23.jpg",
-    price: 1,
-    company: "BESINS",
-    info:
-      "Testosterone Gel",
-    inShoppingBag: false,
-    count: 0,
-    total: 0
-  },
+  // {
+  //   id: 22,
+  //   title: "Testosterone Capsules",
+  //   img: "img/product-22.jpg",
+  //   price: 1,
+  //   company: "DEVA",
+  //   info:
+  //     "30 capsules 40 mg ea.",
+  //   inShoppingBag: false,
+  //   count: 0,
+  //   total: 0
+  // },
+  // {
+  //   id: 23,
+  //   title: "Testosterone Gel",
+  //   img: "img/product-23.jpg",
+  //   price: 1,
+  //   company: "BESINS",
+  //   info:
+  //     "Testosterone Gel",
+  //   inShoppingBag: false,
+  //   count: 0,
+  //   total: 0
+  // },
   {
     id: 24,
     title: "Depo-Provera Contraceptive Injection",
@@ -444,18 +444,18 @@ export const storeProducts = [
   //   count: 0,
   //   total: 0
   // },
-  {
-    id: 36,
-    title: "Clenbuterol",
-    img: "img/product-36.jpg",
-    price: 1,
-    company: "VogelLabor",
-    info:
-      "Swiss brand Clenbuterol for cutting fat.",
-    inShoppingBag: false,
-    count: 0,
-    total: 0
-  },
+  // {
+  //   id: 36,
+  //   title: "Clenbuterol",
+  //   img: "img/product-36.jpg",
+  //   price: 1,
+  //   company: "VogelLabor",
+  //   info:
+  //     "Swiss brand Clenbuterol for cutting fat.",
+  //   inShoppingBag: false,
+  //   count: 0,
+  //   total: 0
+  // },
   {
     id: 37,
     title: "Tretinoin",
@@ -504,18 +504,18 @@ export const storeProducts = [
     count: 0,
     total: 0
   },
-  {
-    id: 43,
-    title: "Test Cypo",
-    img: "img/product-43.jpg",
-    price: 1,
-    company: "Hellas Pharma",
-    info:
-      "",
-    inShoppingBag: false,
-    count: 0,
-    total: 0
-  },
+  // {
+  //   id: 43,
+  //   title: "Test Cypo",
+  //   img: "img/product-43.jpg",
+  //   price: 1,
+  //   company: "Hellas Pharma",
+  //   info:
+  //     "",
+  //   inShoppingBag: false,
+  //   count: 0,
+  //   total: 0
+  // },
   {
     id: 44,
     title: "Motilium Domperidon 10mg",
