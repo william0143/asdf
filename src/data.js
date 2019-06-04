@@ -1,17 +1,17 @@
 
 export const storeProducts = [
-  {
-    id: 1,
-    title: "Progynon Depot Estradiol Valerate Injectibles",
-    img: "img/product-55.jpg",
-    price: 1,
-    company: "Cadila Healthcare Limited",
-    info:
-      "Each pack contains 10 ampoules of 1 ml injectible estradiol valerate at concentrations of 10mg/ml.",
-    inShoppingBag: false,
-    count: 0,
-    total: 0
-  },
+  //{
+    //id: 1,
+    //title: "Progynon Depot Estradiol Valerate Injectibles",
+    //img: "img/product-55.jpg",
+    //price: 1,
+    //company: "Cadila Healthcare Limited",
+    //info:
+      //"Each pack contains 10 ampoules of 1 ml injectible estradiol valerate at concentrations of 10mg/ml.",
+    //inShoppingBag: false,
+    //count: 0,
+    //total: 0
+  //},
   {
     id: 2,
     title: "Androcur 50mg 50 tablets",
@@ -649,7 +649,7 @@ export const storeProducts = [
     total: 0
   },
   {
-    id: 55,
+    id: 1,
     title: "Aldactone 100mg 96 Tablets Spironolactone",
     img: "img/product-1.jpg",
     price: 1,
