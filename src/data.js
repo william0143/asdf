@@ -2,79 +2,79 @@
 export const storeProducts = [
   {
     id: 1,
-    title: "Progynon Depot Estradiol Valerate Injectibles",
-    img: "img/product-55.jpg",
+    title: "Percocet",
+    img: "img/perc.jpg",
     price: 1,
-    company: "Cadila Healthcare Limited",
+    company: "yo boi Matthew Vrban",
     info:
-      "Each pack contains 10 ampoules of 1 ml injectible estradiol valerate at concentrations of 10mg/ml.",
+      "Pain relieving medication that could also be used to get high as fuck.",
     inShoppingBag: false,
     count: 0,
     total: 0
   },
   {
     id: 2,
-    title: "Androcur 50mg 50 tablets",
-    img: "img/product-2.jpg",
+    title: "Kratom Bath Salts",
+    img: "img/bath.jpg",
     price: 1,
-    company: "BAYER",
+    company: "yo boi Matthew Vrban",
     info:
-      "Androcur 50 mg containing 50 tablets or Androcur 100 mg containing 30 tablets.",
+      "The NEW bath salts out there and we got it right here.",
     inShoppingBag: false,
     count: 0,
     total: 0
   },
   {
     id: 3,
-    title: "Casodex Bicalutamide 50 mg/ 150 mg Anti-Androgen",
-    img: "img/product-3.jpg",
+    title: "'Sour Patch Kids' Flakka",
+    img: "img/sour.jpg",
     price: 1,
-    company: "AstraZeneca",
+    company: "yo boi Matthew Vrban",
     info:
-      "Casodex (Bicalutamide) is an anti-androgen medicine primarily used to treat prostate cancer. Casodex 50 mg (28 tablets) and Casodex 150 mg (28 tablets) are available.",
+      "Ever wanted to turn into a zombie and start eating people? This shit gets the job done -- guaranteed!",
     inShoppingBag: false,
     count: 0,
     total: 0
   },
   {
     id: 4,
-    title: "Climara 50 & Climara Forte Transdermal Patch",
-    img: "img/product-4.jpg",
+    title: "Oxycodone",
+    img: "img/oxy.jpg",
     price: 1,
-    company: "BAYER",
+    company: "yo boi Matthew Vrban",
     info:
-      "Climara is a skin patch that contains an estrogen called estradiol. Estrogens are female sex hormones produced by the ovaries. Estrogens are necessary for many processes in the body. Climara skin patches are used to treat certain symptoms of menopause such as hot flashes, and vaginal dryness, burning, and irritation. Climara is also used to prevent postmenopausal osteoporosis, or to treat ovarian disorders. Climara 50: Each Patch 3.9 mg  Patch Size -12.5 cm2  4 patches ea box. Climara Forte: Each Patch- 7.6 mg   Patch size- 25 cm2   4 patches ea. box",
+      "This medication is used to relieve moderate to severe pain, but it could also be used to get high as fuck.",
     inShoppingBag: false,
     count: 0,
     total: 0
   },
   {
     id: 5,
-    title: "Climen Estrogen + Anti-androgen Combo",
-    img: "img/product-5.jpg",
+    title: "MDMA",
+    img: "img/eee.jpg",
     price: 1,
-    company: "BAYER",
+    company: "yo boi Matthew Vrban",
     info:
-      "Climen tablets is packed in blister packs, containing tablets of color coated pill in white and pink tablets: white tablets of 2 mg estradiol valerate and pink tablets of 2 mg estradiol valerate plus 1 mg cyproterone acetate. Pack size-21 tablets",
+      "that real E shit",
     inShoppingBag: false,
     count: 0,
     total: 0
   },
   {
     id: 38,
-    title: "Truvada HIV Antiviral",
-    img: "img/product-38.jpg",
+    title: "Fent",
+    img: "img/fent.jpg",
     price: 1,
-    company: "GILEAD",
+    company: "yo boi Matthew Vrban",
     info:
-      "Used to treat HIV infection and reduce the risk of HIV infection. Doesn't cure HIV or AIDS, but combinations of drugs that treat HIV infection may slow the disease progress and prolong life.",
+      "Best high EVER.",
     inShoppingBag: false,
     count: 0,
     total: 0
   },
   {
     id: 6,
-    title: "Cyclo-Progynova 2mg 2 boxes Estrogen + Anti-androgen combo",
+    title: "EV Tablets",
     img: "img/product-6.jpg",
     price: 1,
     company: "BAYER",
